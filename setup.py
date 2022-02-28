@@ -13,7 +13,7 @@ setup(
   install_requires=[            # I get to this in a second
           'pandas',
           'seaborn',
-          'matplotlib.pyplot',
+          'matplotlib',
           'datetime',
           'numpy',
           'july',
